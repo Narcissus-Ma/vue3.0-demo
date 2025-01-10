@@ -1,1 +1,0 @@
-import{d as n,o,c as t,e as s,u as a,s as _,v as c}from"./index-84d56b0f.js";const i=n({__name:"asyncComponent",setup(r){const e=_(()=>c(()=>import("./asyncComponentDemo-c175d98a.js"),["assets/asyncComponentDemo-c175d98a.js","assets/index-84d56b0f.js","assets/index-51e5cb09.css"]));return(p,m)=>(o(),t("div",null,[s(a(e))]))}});export{i as default};
