@@ -1,0 +1,1 @@
+import{d as c,o as s,c as o,x as _,b as a,_ as n}from"./index-84d56b0f.js";const i={class:"wrapper"},r={type:"text"},p=c({__name:"customDirective",setup(u){const t={mounted:e=>e.focus()};return(e,d)=>(s(),o("div",i,[_(a("input",r,null,512),[[t]])]))}});const l=n(p,[["__scopeId","data-v-a74c5afc"]]);export{l as default};
